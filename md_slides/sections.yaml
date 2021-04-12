@@ -1,0 +1,5 @@
+sections:
+  - file: template.md
+  - file: intro.md
+  - file: version_control.md
+  - file: exercises.md
